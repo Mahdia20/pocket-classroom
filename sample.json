@@ -1,0 +1,46 @@
+{
+  "id": "capsule_1739730000000",
+  "title": "Math Basics",
+  "subject": "Mathematics",
+  "level": "Beginner",
+  "description": "An introduction to basic arithmetic operations: addition, subtraction, multiplication, and division.",
+  "notes": [
+    "Addition means combining two or more numbers.",
+    "Subtraction means taking away from a number.",
+    "Multiplication is repeated addition.",
+    "Division splits a number into equal parts."
+  ],
+  "flashcards": [
+    {
+      "front": "2 + 3",
+      "back": "5"
+    },
+    {
+      "front": "10 - 4",
+      "back": "6"
+    },
+    {
+      "front": "3 \u00d7 4",
+      "back": "12"
+    },
+    {
+      "front": "12 \u00f7 3",
+      "back": "4"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is 8 + 5?",
+      "choices": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answerIndex": 1,
+      "explanation": "8 plus 5 equals 13."
+    }
+  ],
+  "updatedAt": "2025-10-17 10:00:00",
+  "schema": "pocket-classroom/v1"
+}
